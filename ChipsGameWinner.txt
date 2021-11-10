@@ -1,0 +1,5 @@
+
+Winner of the Chips Game is: AI.
+The number of moves, it took to wing the game is: 7
+Winner of the Chips Game is: AI.
+The number of moves, it took to wing the game is: 9
